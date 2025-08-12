@@ -60,7 +60,7 @@ const Footer = () => {
 
       {/* Bottom Section */}
       <div className="text-center mt-6 border-t border-green-500 pt-4 text-sm">
-        © {new Date().getFullYear()} ALFAGRI. All rights reserved. Concept, Devolop by ALFAGAN (Pvt) Ltd
+        © {new Date().getFullYear()} Copyright 2025 © ALFAGRI. All Rights Reserved. Concept, Design, and ALFAGAN (Pvt) Ltd
       </div>
     </footer>
   );
